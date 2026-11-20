@@ -5,17 +5,17 @@ Banking normalBank = new();
 
 SavingsAccount generalAccount = new()
 {
-    Name = "Sasan",
-    LastName = "Salehi",
+    Name = "SumUser",
+    LastName = "OtherUser",
     CreationDate = DateTime.Now,
-    Email = "sasanxcoder@gmail.com",
+    Email = "sampleUser@gmail.com",
     PhoneNumber = "+989111111111"
 };
 
 SavingsAccount anotherAccount = new()
 {
-    Name = "Saman",
-    LastName = "Salehi",
+    Name = "kujhkjh",
+    LastName = "dasds",
     CreationDate = DateTime.Now,
     Email = "SumThing28371OK@gmail.com",
     PhoneNumber = "+989111111111"
@@ -29,8 +29,8 @@ Authentication authentication = new();
 authentication.AddAuthenticationFor(
     new BasicAuth
     {
-        Username = "Sasan092381",
-        HashedPassword = "sasan3232"
+        Username = "asdasd",
+        HashedPassword = "KLALdjk"
     }, cont.integral
 );
 authentication.PrintAll();
