@@ -30,4 +30,4 @@ As this project evolves, I aim to move away from a "simple" implementation towar
 - [ ] **Testing:** Adding Unit Tests (xUnit/NUnit) to ensure transaction reliability.
 
 ---
-*Developed by Mansour Salehi*
+*Developed by Sasan Salehi*
